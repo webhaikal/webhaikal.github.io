@@ -1,0 +1,36 @@
+# site settings
+title: Haikal Izzuddin
+subtitle: 
+email: haikalizz05@gmail.com
+description: A student with a dream</br>Freelancer at heart
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: haikalizz.me # the base hostname & protocol for your site
+author: Haikal Izzuddin
+street_address: 22, Jalan 7/4, Bandar Tasik Puteri
+city: Rawang
+state: Selangor
+zip_code: 48020
+country: Malaysia
+phone: (+60) 11-1008 6242
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/webhaikal
+gitlab_url: 
+googleplus_url: https://plus.google.com/u/0/+haikalizz05
+instagram_url: https://instagram.com/haikalizz27
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/haikalizz27
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
