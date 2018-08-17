@@ -4,7 +4,7 @@ subtitle:
 email: haikalizz05@gmail.com
 description: A student with a dream</br>Freelancer at heart
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: haikalizz.me # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author: Haikal Izzuddin
 street_address: 22, Jalan 7/4, Bandar Tasik Puteri
 city: Rawang
